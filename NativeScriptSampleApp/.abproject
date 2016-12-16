@@ -1,0 +1,28 @@
+{
+  "ProjectName": "NativeScriptSampleApp",
+  "ProjectGuid": "63826ecc-8bcc-47c2-86b7-6ef4f24953ae",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NativeScriptSampleApp",
+  "DisplayName": "NativeScriptSampleApp",
+  "Author": "",
+  "Description": "NativeScriptSampleApp",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.3.0",
+  "Framework": "NativeScript"
+}
